@@ -1,2 +1,2 @@
-# supermerkdo.recueratorio
+# ejercicio1
 Created with CodeSandbox
